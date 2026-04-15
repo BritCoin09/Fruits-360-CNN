@@ -1,0 +1,12 @@
+# Ignore dataset folders
+fruits/
+fruits-360/
+fruits-360_100x100/
+fruits-360*/ 
+*.zip
+
+# Ignore Kaggle API files
+kaggle.json
+
+# Ignore Colab junk
+*.ipynb_checkpoints/
